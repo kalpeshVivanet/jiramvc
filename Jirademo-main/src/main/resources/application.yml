@@ -1,0 +1,7 @@
+# jira:
+#   secret: ap6mLN3z29cyyoS5fbAi0F20
+#   user-name: kalpeshchouhan2@gmail.com
+#   base-url: https://mykalpeshchouhan.atlassian.net
+#   ticket-url: /rest/api/2/issue
+server:
+  port: 9095
